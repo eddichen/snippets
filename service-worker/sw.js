@@ -1,6 +1,6 @@
 var CACHE_NAME = 'sw-example-cache';
 var urlsToCache = [
-    '/',
+    '/service-worker/',
     'css/normalize.css'
 ];
 
