@@ -2,7 +2,7 @@
     "name": "Service worker example",
     "short_name": "SWE",
     "lang": "en-GB",
-    "start_url": "/",
+    "start_url": "/service-worker/index.html",
     "display": "browser",
     "icons": [
         {
