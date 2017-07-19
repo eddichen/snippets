@@ -1,7 +1,7 @@
 var CACHE_NAME = 'sw-example-cache';
 var urlsToCache = [
     '/snippets/service-worker/',
-    '/snippets/service-worker/css/normalize.css'
+    '/snippets/service-worker/css/main.css'
 ];
 
 self.addEventListener('install', function(event) {
